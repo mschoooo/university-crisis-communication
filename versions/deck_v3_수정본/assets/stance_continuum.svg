@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="950.4pt" height="259.2pt" viewBox="0 0 950.4 259.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-21T14:28:52.243504</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 259.2 
+L 950.4 259.2 
+L 950.4 0 
+L 0 0 
+z
+" style="fill: #f7f5ef"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 9.504 254.016 
+L 940.896 254.016 
+L 940.896 5.184 
+L 9.504 5.184 
+z
+" style="fill: #f7f5ef"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 48.622464 54.9504 
+L 901.777536 54.9504 
+Q 904.571712 54.9504 904.571712 47.48544 
+L 904.571712 28.82304 
+Q 904.571712 21.35808 901.777536 21.35808 
+L 48.622464 21.35808 
+Q 45.828288 21.35808 45.828288 28.82304 
+L 45.828288 47.48544 
+Q 45.828288 54.9504 48.622464 54.9504 
+z
+" clip-path="url(#pc2d4f266fb)" style="fill: #efeae0; stroke: #c9c3b8; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="line2d_1">
+    <path d="M 233.03808 99.74016 
+L 642.85056 99.74016 
+" clip-path="url(#pc2d4f266fb)" style="fill: none; stroke: #136f6d; stroke-width: 3.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 46.75968 154.4832 
+L 903.64032 154.4832 
+" clip-path="url(#pc2d4f266fb)" style="fill: none; stroke-dasharray: 4.44,1.92; stroke-dashoffset: 0; stroke: #c9c3b8; stroke-width: 1.2"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 177.15456 201.76128 
+L 549.71136 201.76128 
+L 270.29376 231.62112 
+" clip-path="url(#pc2d4f266fb)" style="fill: none; stroke: #b8443e; stroke-width: 2.5; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Noto Sans KR'; text-anchor: start; fill: #b8443e" x="65.38752" y="42.785371" transform="rotate(-0 65.38752 42.785371)">순수 옹호 (Pure Advocacy · 1)</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 13.5px; font-family: 'Noto Sans KR'; text-anchor: middle; fill: #132934" x="475.2" y="42.524902" transform="rotate(-0 475.2 42.524902)">정황적 수용 이론 연속선 (Cancel et al., 1999; 황성욱, 2014)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Noto Sans KR'; text-anchor: end; fill: #136f6d" x="885.01248" y="42.945097" transform="rotate(-0 885.01248 42.945097)">순수 수용 (Pure Accommodation · 7)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Noto Sans KR'; text-anchor: start; fill: #136f6d" x="46.75968" y="95.48688" transform="rotate(-0 46.75968 95.48688)">사례 A · 강원대</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12.5px; font-family: 'Noto Sans KR'; text-anchor: start; fill: #5c6d75" x="46.75968" y="116.457151" transform="rotate(-0 46.75968 116.457151)">(행동적 수용 이동)</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 235.035991 99.74016 
+Q 437.942967 99.74016 637.495842 99.74016 
+" style="fill: none; stroke: #136f6d; stroke-width: 3; stroke-linecap: round"/>
+    <path d="M 631.495842 96.74016 
+L 637.495842 99.74016 
+L 631.495842 102.74016 
+" style="fill: none; stroke: #136f6d; stroke-width: 3; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m0d130a055c" d="M 0 6.708204 
+C 1.779036 6.708204 3.485448 6.001385 4.743416 4.743416 
+C 6.001385 3.485448 6.708204 1.779036 6.708204 0 
+C 6.708204 -1.779036 6.001385 -3.485448 4.743416 -4.743416 
+C 3.485448 -6.001385 1.779036 -6.708204 0 -6.708204 
+C -1.779036 -6.708204 -3.485448 -6.001385 -4.743416 -4.743416 
+C -6.001385 -3.485448 -6.708204 -1.779036 -6.708204 0 
+C -6.708204 1.779036 -6.001385 3.485448 -4.743416 4.743416 
+C -3.485448 6.001385 -1.779036 6.708204 0 6.708204 
+z
+" style="stroke: #b8443e"/>
+    </defs>
+    <g clip-path="url(#pc2d4f266fb)">
+     <use xlink:href="#m0d130a055c" x="233.03808" y="99.74016" style="fill: #b8443e; stroke: #b8443e"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="m06e890aff5" d="M 0 7.416198 
+C 1.966799 7.416198 3.853307 6.634781 5.244044 5.244044 
+C 6.634781 3.853307 7.416198 1.966799 7.416198 0 
+C 7.416198 -1.966799 6.634781 -3.853307 5.244044 -5.244044 
+C 3.853307 -6.634781 1.966799 -7.416198 0 -7.416198 
+C -1.966799 -7.416198 -3.853307 -6.634781 -5.244044 -5.244044 
+C -6.634781 -3.853307 -7.416198 -1.966799 -7.416198 0 
+C -7.416198 1.966799 -6.634781 3.853307 -5.244044 5.244044 
+C -3.853307 6.634781 -1.966799 7.416198 0 7.416198 
+z
+" style="stroke: #136f6d"/>
+    </defs>
+    <g clip-path="url(#pc2d4f266fb)">
+     <use xlink:href="#m06e890aff5" x="642.85056" y="99.74016" style="fill: #136f6d; stroke: #136f6d"/>
+    </g>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Noto Sans KR'; text-anchor: middle; fill: #132934" x="233.03808" y="82.826745" transform="rotate(-0 233.03808 82.826745)">초기 (2/20~4/1): 비공개 추진·원안 고수 → 8:12 부결</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Noto Sans KR'; text-anchor: middle; fill: #136f6d" x="642.85056" y="82.826745" transform="rotate(-0 642.85056 82.826745)">4/28 수정안: 공무원 정원 조정(35→24명) / 15:6 가결</text>
+   </g>
+   <g id="PathCollection_3">
+    <defs>
+     <path id="meb29c5662e" d="M 0 5.700877 
+C 1.51189 5.700877 2.962061 5.100197 4.031129 4.031129 
+C 5.100197 2.962061 5.700877 1.51189 5.700877 0 
+C 5.700877 -1.51189 5.100197 -2.962061 4.031129 -4.031129 
+C 2.962061 -5.100197 1.51189 -5.700877 0 -5.700877 
+C -1.51189 -5.700877 -2.962061 -5.100197 -4.031129 -4.031129 
+C -5.100197 -2.962061 -5.700877 -1.51189 -5.700877 0 
+C -5.700877 1.51189 -5.100197 2.962061 -4.031129 4.031129 
+C -2.962061 5.100197 -1.51189 5.700877 0 5.700877 
+z
+" style="stroke: #c47d2b"/>
+    </defs>
+    <g clip-path="url(#pc2d4f266fb)">
+     <use xlink:href="#meb29c5662e" x="298.23552" y="132.08832" style="fill: #c47d2b; stroke: #c47d2b"/>
+    </g>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'Noto Sans KR'; text-anchor: start; fill: #132934" x="298.23552" y="135.963945" transform="rotate(-0 298.23552 135.963945)">  ※ 단, 의장의 당일 수정안 제한·신청서 명칭 변경은 옹호(Advocacy) 유지 → 직원 시위 잔존</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Noto Sans KR'; text-anchor: start; fill: #b8443e" x="46.75968" y="202.48464" transform="rotate(-0 46.75968 202.48464)">사례 B · 동덕여대</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 12.5px; font-family: 'Noto Sans KR'; text-anchor: start; fill: #5c6d75" x="46.75968" y="223.454911" transform="rotate(-0 46.75968 223.454911)">(수사 혼합적 수용)</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 188.469375 201.76128 
+Q 363.433246 201.76128 535.266621 201.76128 
+" style="fill: none; stroke: #3a9694; stroke-width: 2.8; stroke-linecap: round"/>
+    <path d="M 529.266621 198.76128 
+L 535.266621 201.76128 
+L 529.266621 204.76128 
+" style="fill: none; stroke: #3a9694; stroke-width: 2.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 538.403793 204.449335 
+Q 409.998889 217.313648 284.708886 229.865893 
+" style="fill: none; stroke: #b8443e; stroke-width: 2.8; stroke-linecap: round"/>
+    <path d="M 290.978059 232.252831 
+L 284.708886 229.865893 
+L 290.37994 226.282717 
+" style="fill: none; stroke: #b8443e; stroke-width: 2.8; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_4">
+    <defs>
+     <path id="mbe571376a5" d="M 0 6.519202 
+C 1.728913 6.519202 3.387246 5.832298 4.609772 4.609772 
+C 5.832298 3.387246 6.519202 1.728913 6.519202 0 
+C 6.519202 -1.728913 5.832298 -3.387246 4.609772 -4.609772 
+C 3.387246 -5.832298 1.728913 -6.519202 0 -6.519202 
+C -1.728913 -6.519202 -3.387246 -5.832298 -4.609772 -4.609772 
+C -5.832298 -3.387246 -6.519202 -1.728913 -6.519202 0 
+C -6.519202 1.728913 -5.832298 3.387246 -4.609772 4.609772 
+C -3.387246 5.832298 -1.728913 6.519202 0 6.519202 
+z
+" style="stroke: #b8443e"/>
+    </defs>
+    <g clip-path="url(#pc2d4f266fb)">
+     <use xlink:href="#mbe571376a5" x="177.15456" y="201.76128" style="fill: #b8443e; stroke: #b8443e"/>
+    </g>
+   </g>
+   <g id="PathCollection_5">
+    <defs>
+     <path id="m6b10050c99" d="M 0 6.892024 
+C 1.827786 6.892024 3.580957 6.165837 4.873397 4.873397 
+C 6.165837 3.580957 6.892024 1.827786 6.892024 0 
+C 6.892024 -1.827786 6.165837 -3.580957 4.873397 -4.873397 
+C 3.580957 -6.165837 1.827786 -6.892024 0 -6.892024 
+C -1.827786 -6.892024 -3.580957 -6.165837 -4.873397 -4.873397 
+C -6.165837 -3.580957 -6.892024 -1.827786 -6.892024 0 
+C -6.892024 1.827786 -6.165837 3.580957 -4.873397 4.873397 
+C -3.580957 6.165837 -1.827786 6.892024 0 6.892024 
+z
+" style="stroke: #3a9694"/>
+    </defs>
+    <g clip-path="url(#pc2d4f266fb)">
+     <use xlink:href="#m6b10050c99" x="549.71136" y="201.76128" style="fill: #3a9694; stroke: #3a9694"/>
+    </g>
+   </g>
+   <g id="PathCollection_6">
+    <defs>
+     <path id="m1b5abdf738" d="M 0 7.245688 
+C 1.921579 7.245688 3.764714 6.482237 5.123475 5.123475 
+C 6.482237 3.764714 7.245688 1.921579 7.245688 0 
+C 7.245688 -1.921579 6.482237 -3.764714 5.123475 -5.123475 
+C 3.764714 -6.482237 1.921579 -7.245688 0 -7.245688 
+C -1.921579 -7.245688 -3.764714 -6.482237 -5.123475 -5.123475 
+C -6.482237 -3.764714 -7.245688 -1.921579 -7.245688 0 
+C -7.245688 1.921579 -6.482237 3.764714 -5.123475 5.123475 
+C -3.764714 6.482237 -1.921579 7.245688 0 7.245688 
+z
+" style="stroke: #b8443e"/>
+    </defs>
+    <g clip-path="url(#pc2d4f266fb)">
+     <use xlink:href="#m1b5abdf738" x="270.29376" y="231.62112" style="fill: #b8443e; stroke: #b8443e"/>
+    </g>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Noto Sans KR'; text-anchor: middle; fill: #132934" x="177.15456" y="184.847865" transform="rotate(-0 177.15456 184.847865)">초기 (2024.11): 사전협의 부재·점거 충돌</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Noto Sans KR'; text-anchor: middle; fill: #136f6d" x="586.96704" y="184.847865" transform="rotate(-0 586.96704 184.847865)">절차적 수용 (2025.05~11): 4단위 공론화위·숙의기구 가동</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 12.2px; font-family: 'Noto Sans KR'; text-anchor: start; fill: #b8443e" x="288.9216" y="249.442489" transform="rotate(-0 288.9216 249.442489)">결론·후속 (2025.12~2026.02): 1:1:1 가중 고수·총투표 중 총장 발표·8:2 학칙 개정 강행 (옹호 복귀)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc2d4f266fb">
+   <rect x="9.504" y="5.184" width="931.392" height="248.832"/>
+  </clipPath>
+ </defs>
+</svg>
