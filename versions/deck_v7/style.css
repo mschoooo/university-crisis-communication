@@ -846,29 +846,23 @@ h1,h2,h3,p,figure,blockquote{margin-top:0}h1,h2,h3{font-family:var(--serif);font
 }
 
 
-/* Cover refinement: subdued field photos, soft blend, title-first hierarchy */
-.cover-photo { filter: grayscale(.72) brightness(.82) contrast(.92); }
+/* Cover refinement: generated architectural backdrop, clear title hierarchy */
+.cover-photo { inset: 0; width: 100%; filter: saturate(.72) brightness(.84) contrast(1.02); }
 .cover-photo-a {
-  width: 70%; opacity: .39;
-  -webkit-mask-image: linear-gradient(90deg, #000 0%, #000 48%, rgba(0,0,0,.82) 70%, transparent 100%);
-  mask-image: linear-gradient(90deg, #000 0%, #000 48%, rgba(0,0,0,.82) 70%, transparent 100%);
-}
-.cover-photo-b {
-  width: 72%; opacity: .31;
-  -webkit-mask-image: linear-gradient(270deg, #000 0%, #000 45%, rgba(0,0,0,.78) 70%, transparent 100%);
-  mask-image: linear-gradient(270deg, #000 0%, #000 45%, rgba(0,0,0,.78) 70%, transparent 100%);
+  background-image: url('assets/cover_background_v7.png');
+  background-position: center 52%;
+  opacity: .82;
 }
 .cover-wash {
-  background: linear-gradient(90deg, rgba(18,20,22,.70) 0%, rgba(18,20,22,.72) 46%, rgba(18,20,22,.81) 100%),
-              linear-gradient(0deg, rgba(15,18,20,.80), transparent 48%);
+  background: linear-gradient(90deg, rgba(18,20,22,.48) 0%, rgba(18,20,22,.40) 43%, rgba(18,20,22,.20) 72%, rgba(18,20,22,.32) 100%),
+              linear-gradient(0deg, rgba(15,18,20,.56), transparent 48%);
 }
-.cover-top { width: 740px; border-bottom-color: rgba(255,255,255,.22); }
+.cover-top { top: 66px; left: 120px; width: 740px; border-bottom-color: rgba(255,255,255,.25); padding-bottom: 15px; }
 .cover-top span { color: #d5cfc3; font-size: 16px; font-weight: 600; letter-spacing: -.01em; }
+.cover-copy.full-cover { left: 120px; top: 222px; width: 1120px; }
+.cover-copy.full-cover h1 { font-size: 84px; line-height: 1.18; margin-bottom: 20px; }
+.cover-copy.full-cover .cover-sub { font-size: 31px; }
+.cover-case-line { max-width: 1000px; margin-top: 17px; font-size: 18px; line-height: 1.48; color: #e3ddd3; }
+.cover-byline { margin-top: 64px; }
+.cover-meta { display: none; }
 .cover-copy.full-cover h1 { text-shadow: 0 3px 24px rgba(0,0,0,.42); }
-.cover-copy.full-cover .cover-sub { margin-bottom: 0; }
-.cover-case-line {
-  margin: 15px 0 0; max-width: 900px;
-  font-family: var(--sans); font-size: 18px; font-weight: 600;
-  line-height: 1.5; letter-spacing: -.015em; color: #e2dacf;
-}
-.cover-byline { margin-top: 176px; }

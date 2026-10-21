@@ -1,11 +1,11 @@
 # deck_v4 이미지·문서 출처 목록
 
-이 덱의 사건 현장 사진은 언론사 원본의 재배포 조건을 확인할 수 없어 파일에 수록하지 않았다. 표지에서 [한준구 기자의 2024년 11월 13일 동덕여대 현장 보도사진 원문](https://www.ajupress.com/view/20241113172148235)을 열 수 있다. 사진 저작권은 Aju Press에 있으므로 PDF나 저장소에 복제하지 않았다. 표지와 배경에는 재사용 허가가 확인된 **실제 캠퍼스 기록사진**을, 사건 증거에는 공개된 **회의록·공론화 자료의 필요한 부분만 발췌한 이미지**를 사용했다. 기록사진은 갈등 현장 사진으로 표기하지 않았다. 기사 지면도 재현하지 않았으며 표지에는 확인된 기사 **제목과 발행일만** 인용했다.
+이 덱의 사건 현장 사진은 언론사 원본의 재배포 조건을 확인할 수 없어 파일에 수록하지 않았다. 표지 배경은 실제 사건을 묘사하지 않는 AI 생성 개념 이미지다. 사건 증거에는 공개된 **회의록·공론화 자료의 필요한 부분만 발췌한 이미지**를 사용했다. 기록사진은 갈등 현장 사진으로 표기하지 않았다. 기사 지면도 재현하지 않았으며 표지에는 확인된 기사 **제목과 발행일만** 인용했다.
 
 | 사용 슬라이드 | 사용 자산 | 원자료·촬영자·일자 | 이용 조건·처리 |
 |---|---|---|---|
-| 1 | `campus_kangwon.jpg` | [강원대학교 60주년 기념관](https://commons.wikimedia.org/wiki/File:%EA%B0%95%EC%9B%90%EB%8C%80%ED%95%99%EA%B5%90_60%EC%A3%BC%EB%85%84_%EA%B8%B0%EB%85%90%EA%B4%80.jpg), Sadopaul, 2023-12-08 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 덱에서 흑백·어두운 오버레이·일부 크롭 처리. 사진은 당시 시위가 아닌 강원대 캠퍼스 기록사진. |
-| 1, 2 | `campus_gangneung.jpg` | [국립강릉원주대학교 전경](https://commons.wikimedia.org/wiki/File:%EA%B5%AD%EB%A6%BD%EA%B0%95%EB%A6%89%EC%9B%90%EC%A3%BC%EB%8C%80%ED%95%99%EA%B5%901.jpg), 김호진2, 2024-12-02 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 덱에서 흑백·어두운 오버레이·일부 크롭 처리. 사진은 당시 시위가 아닌 강릉원주대 캠퍼스 기록사진. |
+| 1 | `cover_background_v7.png` | OpenAI 이미지 생성 도구, 2026-10-21 | AI 생성 개념 이미지: 특정 대학·사건을 묘사하지 않는 캠퍼스 건축 배경. 크롭·색조·투명도 처리. 실제 기록사진이나 사건 증거로 사용하지 않음. |
+| 2 | `campus_gangneung.jpg` | [국립강릉원주대학교 전경](https://commons.wikimedia.org/wiki/File:%EA%B5%AD%EB%A6%BD%EA%B0%95%EB%A6%89%EC%9B%90%EC%A3%BC%EB%8C%80%ED%95%99%EA%B5%901.jpg), 김호진2, 2024-12-02 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 덱에서 흑백·어두운 오버레이·일부 크롭 처리. 사진은 당시 시위가 아닌 강릉원주대 캠퍼스 기록사진. |
 | 1 | `A01_title_clip.png` | 강원대학교 제47차 대학평의원회 회의록, 회의 2025-04-01, **1쪽**, 자료 ID **A01P**. [공개 원문](https://www.kangwon.ac.kr/ko/cmmn/download.do?dn=20250423140105131G8v.pdf&path=/DATA/bbs/394&fn=%EF%BC%88%EC%B5%9C%EC%A2%85%EF%BC%89%EC%A0%9C47%EC%B0%A8%20%EB%8C%80%ED%95%99%ED%8F%89%EC%9D%98%EC%9B%90%ED%9A%8C%20%ED%9A%8C%EC%9D%98%EB%A1%9D.pdf) | 제목 부분만 원문 그대로 발췌. 재이용 허가 표시는 확인되지 않아 독립 이미지로 재배포하지 않는다. |
 | 1, 8 | `D06_title_clip.png` | 동덕여대 공학전환공론화위원회 권고안, 2025-12-02, **1쪽**, 자료 ID **D06**. [공개 원문](https://portal.dongduk.ac.kr/ctt/bb/bulletin?a=fd&b=1&fs=6&p=56963) | 제목 부분만 원문 그대로 발췌. 독립 이미지 재배포 허가 여부는 별도 확인 필요. |
 | 2 | `D06_recommendation_clip.png` | 같은 권고안, **2쪽**, **D06**. [공개 원문](https://portal.dongduk.ac.kr/ctt/bb/bulletin?a=fd&b=1&fs=6&p=56963) | 권고 문구·통계 표기 일부를 원문 그대로 발췌. |
