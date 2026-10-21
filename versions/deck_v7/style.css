@@ -736,3 +736,111 @@ h1,h2,h3,p,figure,blockquote{margin-top:0}h1,h2,h3{font-family:var(--serif);font
   0% { opacity: 0; transform: translateY(14px); }
   100% { opacity: 1; transform: translateY(0); }
 }
+
+
+/* ===== Cover Full Layout (No Box, Elegant Typography) ===== */
+.cover-copy.full-cover {
+  width: 1060px;
+  top: 175px;
+}
+.cover-copy.full-cover h1 {
+  font-size: 84px;
+  line-height: 1.18;
+  margin-bottom: 20px;
+}
+.cover-copy.full-cover .cover-sub {
+  font-size: 32px;
+  color: #f5efe3;
+  margin-bottom: 0;
+}
+.cover-copy.full-cover .cover-seal {
+  width: 820px;
+  margin-top: 56px;
+}
+.cover-byline {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-top: 42px;
+  font-family: var(--sans);
+  color: #d8d2c4;
+}
+.byline-label {
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  color: #dba08e;
+  text-transform: uppercase;
+  margin-right: 2px;
+}
+.byline-name {
+  font-size: 26px;
+  font-weight: 900;
+  color: #ffffff;
+  letter-spacing: -0.02em;
+}
+.byline-dot {
+  font-size: 15px;
+  color: #8c8577;
+  font-weight: 300;
+}
+.byline-dept {
+  font-size: 18px;
+  font-weight: 600;
+  color: #f0eae0;
+}
+.byline-id {
+  font-size: 17px;
+  font-weight: 700;
+  color: #dba08e;
+}
+
+/* ===== Slide 10 Layout Fix: Prevent Bottom Box Touching Footer ===== */
+.slide[data-slide="10"] .parallel-grid {
+  margin-top: 16px;
+  gap: 22px;
+}
+.slide[data-slide="10"] .parallel-plate {
+  grid-template-rows: 1fr;
+  box-shadow: 0 4px 12px rgba(0,0,0,.05);
+}
+.slide[data-slide="10"] .parallel-content.full {
+  padding: 14px 22px 12px;
+}
+.slide[data-slide="10"] .parallel-content h3 {
+  font-size: 22px;
+  margin: 3px 0 8px;
+}
+.slide[data-slide="10"] .timeline-step {
+  gap: 5px;
+  margin-top: 6px;
+  padding-left: 14px;
+}
+.slide[data-slide="10"] .timeline-step > div {
+  padding: 2px 0 2px 8px;
+}
+.slide[data-slide="10"] .timeline-step time {
+  font-size: 13px;
+  margin-right: 6px;
+}
+.slide[data-slide="10"] .timeline-step b {
+  font-size: 16px;
+}
+.slide[data-slide="10"] .timeline-step span {
+  font-size: 13px;
+  line-height: 1.28;
+  margin-top: 1px;
+}
+.slide[data-slide="10"] .caveat-text {
+  margin-top: 8px;
+  font-size: 11.5px;
+  line-height: 1.32;
+  padding-top: 5px;
+  border-top: 1px dashed var(--line);
+}
+.slide[data-slide="10"] .thesis-line {
+  margin-top: 12px;
+  padding: 10px 18px;
+  font-size: 15px;
+  line-height: 1.4;
+}
