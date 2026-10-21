@@ -10,9 +10,9 @@ const dataModal = document.getElementById('data-modal');
 let index = 0;
 
 const motionPlan = [
-  ['.case-plate p b, .vote-row > b, .staff-change strong, .before-after strong, .survey-side strong, .aftermath-card strong', 'number'],
-  ['.vote-track i, .compare-line i', 'bar'],
-  ['.timeline > div, .dongduk-timeline > div, .vote-row, .before-after > div, .survey-side > div, .aftermath-card, .compare-rows > div, .reference-column p, .conclusion-list > div', 'row']
+  ['.stat-primary, .survey-major b, .vote-block b, .timeline-step b, .case-plate p b, .staff-change b, .analysis-box b, .big-stat, .delib-stat-item b, .vote-card b', 'number'],
+  ['.vote-track i, .delib-bar i, .progress-bar i, .continuum-track i, .survey-bar i, .bar-fill', 'bar'],
+  ['.timeline-step > div, .parallel-plate, .deep-left, .archive-plate, .criteria article, .var-panel, .reference-column, .aftermath-card, .vote-card', 'row']
 ];
 slides.forEach(slide => {
   motionPlan.forEach(([selector, type]) => {
