@@ -849,13 +849,14 @@ h1,h2,h3,p,figure,blockquote{margin-top:0}h1,h2,h3{font-family:var(--serif);font
 /* Cover refinement: generated architectural backdrop, clear title hierarchy */
 .cover-photo { inset: 0; width: 100%; filter: saturate(.72) brightness(.84) contrast(1.02); }
 .cover-photo-a {
-  background-image: url('assets/cover_background_v7.png');
-  background-position: center 52%;
-  opacity: .82;
+  background-image: url('assets/protest_dongduk_wall.jpg');
+  background-position: center 44%;
+  filter: grayscale(.25) brightness(.82) contrast(1.05);
+  opacity: .86;
 }
 .cover-wash {
-  background: linear-gradient(90deg, rgba(18,20,22,.48) 0%, rgba(18,20,22,.40) 43%, rgba(18,20,22,.20) 72%, rgba(18,20,22,.32) 100%),
-              linear-gradient(0deg, rgba(15,18,20,.56), transparent 48%);
+  background: linear-gradient(90deg, rgba(18,20,22,.68) 0%, rgba(18,20,22,.60) 43%, rgba(18,20,22,.38) 72%, rgba(18,20,22,.32) 100%),
+              linear-gradient(0deg, rgba(15,18,20,.60), transparent 48%);
 }
 .cover-top { top: 66px; left: 120px; width: 740px; border-bottom-color: rgba(255,255,255,.25); padding-bottom: 15px; }
 .cover-top span { color: #d5cfc3; font-size: 16px; font-weight: 600; letter-spacing: -.01em; }
