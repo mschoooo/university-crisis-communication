@@ -851,7 +851,7 @@ h1,h2,h3,p,figure,blockquote{margin-top:0}h1,h2,h3{font-family:var(--serif);font
 .cover-photo-a {
   background-image: url('assets/protest_dongduk_wall.jpg');
   background-position: center 44%;
-  filter: grayscale(.25) brightness(.82) contrast(1.05);
+  filter: grayscale(.25) brightness(.74) contrast(1.05);
   opacity: .86;
 }
 .cover-wash {
