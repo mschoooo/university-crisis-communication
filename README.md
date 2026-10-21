@@ -1,23 +1,31 @@
-# 대학의 구조적 변화와 위기 커뮤니케이션
+# 변화의 결단은 왜 위기가 되는가: 공식 결정의 진전과 내부 공중 수용의 괴리
 
-강원대–강릉원주대의 2025년 4월 통합안 재심의와 동덕여대의 공학 전환 공론화·후속 의사결정을 비교하는 15분 발표용 HTML 슬라이드 덱이다. 중심 명제는 **공식 결정의 진전과 이해관계자의 수용은 별개의 성과**라는 것이다. 최신 v2는 연구 배경, 사건별 타임라인, 실제 조치, Cameron 상황이론 적용과 반론, 사전 위기관리 평가를 13장으로 구성했다.
+2026학년도 2학기 부산대학교 미디어커뮤니케이션학과 **전략적 갈등관리(황성욱 교수님)** 중간 개인 연구발표용 HTML 슬라이드 덱이다(발표자: **조민성**). 강원대–강릉원주대의 통합안 재심의(2025.02~2026.03)와 동덕여대의 공학 전환 공론화 및 학칙 개정(2024.11~2026.08)을 **정황적 수용 이론(Contingency Theory: Cancel et al., 1999; Cameron et al., 2001; 황성욱, 2014)** 및 **갈등관리 생애주기(Wilcox & Cameron, 2005; Ham, Hwang, & Cameron, 2011; Heath, 1997; Sturges, 1994; Marra, 2004; Hwang, Cho, & Lee, 2022)** 틀로 비교 분석한다.
 
-- 최신 발표: [`versions/v2/index.html`](versions/v2/index.html)
-- 최신 PDF: [`versions/v2/deck_v2.pdf`](versions/v2/deck_v2.pdf)
-- 최신 출처 목록: [`versions/v2/sources.html`](versions/v2/sources.html)
-- v2 제작 계획: [`PLAN_v2.md`](PLAN_v2.md)
-- 버전 기록: [`VERSION_HISTORY.md`](VERSION_HISTORY.md)
+- **최신 발표(v3)**: [`versions/v3/index.html`](versions/v3/index.html)
+- **최신 인쇄용 PDF(v3)**: [`versions/v3/deck_v3.pdf`](versions/v3/deck_v3.pdf)
+- **최신 원자료·수업문헌 검증 인덱스(v3)**: [`versions/v3/sources.html`](versions/v3/sources.html)
+- **v3 개편 계획**: [`PLAN_v3.md`](PLAN_v3.md)
+- **버전 기록**: [`VERSION_HISTORY.md`](VERSION_HISTORY.md)
 
-v1은 [HTML](versions/v1/index.html)과 [PDF](versions/v1/deck_v1.pdf)로 보존한다.
+이전 버전은 불변(immutable) 아카이브 원칙에 따라 그대로 보존한다:
+- **v2 보존본**: [HTML](versions/v2/index.html) · [PDF](versions/v2/deck_v2.pdf) · [출처](versions/v2/sources.html)
+- **v1 보존본**: [HTML](versions/v1/index.html) · [PDF](versions/v1/deck_v1.pdf) · [출처](versions/v1/sources.html)
 
-화살표 키, Page Up/Down, Home/End 또는 화면 오른쪽 위 버튼으로 이동한다. PDF는 슬라이드의 `PDF` 버튼에서 내려받을 수 있다.
+## 발표 조작 및 단축키 (v3)
 
-## 근거와 재생성
+- `←` / `→`, `PageUp` / `PageDown`, `Home` / `End`: 슬라이드 이동
+- `M` 또는 하단 `목차(M)` 버튼: 14장 전체 슬라이드 목차 점프 모달
+- `N` 또는 하단 `발표노트(N)` 버튼: 슬라이드별 발표 대본 및 교수님 예상 질문(Q&A) 방어 논리 드로어
+- `D` 또는 하단 `수치검증(D)` 버튼: 1차 원자료 핵심 수치(강원대 회의록·동덕여대 가중/무가중 통계) 요약 모달
+- `F` 또는 하단 `전체화면(F)` 버튼: 전체화면 전환
 
-차트는 앞서 수집한 원자료의 수치만 사용한다. 원자료 ID와 발행 정보는 출처 목록에 표시했다. 대학평의원회 두 표결의 차이는 개인별 입장 변경으로 해석하지 않는다. 공론화 설문의 전체 비율은 집단에 동일한 가중치를 준 값이며, 학생 총투표와는 질문·시점·모집단이 다르다.
+## 검증 및 재생성
 
-Windows에서 `python scripts/generate_sources_v2.py`, `python scripts/verify_deck_v2.py` 순서로 실행하면 v2 출처 목록과 PDF를 재생성하고 13장 화면 검사를 수행한다. v2 차트는 v1의 원자료 수치로 만든 SVG를 보존해 사용했다. v1은 `python scripts/generate_charts.py`, `python scripts/generate_sources.py`, `python scripts/verify_deck.py` 순서로 재생성한다. 스크립트는 원래의 로컬 연구 폴더 및 설치된 Chrome과 Python 패키지(Matplotlib, Playwright, Pillow, PyMuPDF)를 사용한다. 공개 저장소에는 원자료의 로컬 경로나 전문을 포함하지 않았다.
+Windows에서 다음 순서로 실행하면 차트 4종, 출처 인덱스, 14장 화면 레이아웃 검사 및 16:9 인쇄용 PDF(`deck_v3.pdf`)를 자동 생성·검증한다:
 
-## 범위
-
-이 발표의 ‘성공’은 강원대의 수정안 재심의 가결과 동덕여대의 공식 의사결정 절차 진전을 가리킨다. ‘실패’ 또는 한계는 각각 가결 직후 직원 반발의 지속과 학생대표의 수용 미확보 범위에서만 논한다. 강원대 본부가 설명한 전략실 인력 변경은 실제 배치 완료와 구별한다. 전체 구성원의 장기 수용이나 2029년 공학 전환 시행 결과를 판정하지 않는다.
+```powershell
+python scripts/generate_charts_v3.py
+python scripts/generate_sources_v3.py
+python scripts/verify_deck_v3.py
+```

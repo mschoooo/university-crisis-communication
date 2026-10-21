@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="950.4pt" height="259.2pt" viewBox="0 0 950.4 259.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-21T13:51:27.370405</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 259.2 
+L 950.4 259.2 
+L 950.4 0 
+L 0 0 
+z
+" style="fill: #f7f5ef"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 190.08 238.464 
+L 563.641478 238.464 
+L 563.641478 41.472 
+L 190.08 41.472 
+z
+" style="fill: #f7f5ef"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 190.08 91.673187 
+L 211.388789 91.673187 
+L 211.388789 61.1712 
+L 190.08 61.1712 
+z
+" clip-path="url(#p3d9497009c)" style="fill: #136f6d"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 211.388789 91.673187 
+L 436.841033 91.673187 
+L 436.841033 61.1712 
+L 211.388789 61.1712 
+z
+" clip-path="url(#p3d9497009c)" style="fill: #b8443e"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 436.841033 91.673187 
+L 453.151463 91.673187 
+L 453.151463 61.1712 
+L 436.841033 61.1712 
+z
+" clip-path="url(#p3d9497009c)" style="fill: #8e9a9d"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 190.08 155.218994 
+L 222.963933 155.218994 
+L 222.963933 124.717006 
+L 190.08 124.717006 
+z
+" clip-path="url(#p3d9497009c)" style="fill: #136f6d"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 222.963933 155.218994 
+L 453.151463 155.218994 
+L 453.151463 124.717006 
+L 222.963933 124.717006 
+z
+" clip-path="url(#p3d9497009c)" style="fill: #b8443e"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 190.08 218.7648 
+L 400.537171 218.7648 
+L 400.537171 188.262813 
+L 190.08 188.262813 
+z
+" clip-path="url(#p3d9497009c)" style="fill: #136f6d"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 400.537171 218.7648 
+L 453.151463 218.7648 
+L 453.151463 188.262813 
+L 400.537171 188.262813 
+z
+" clip-path="url(#p3d9497009c)" style="fill: #b8443e"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-weight: 700; font-size: 13.5px; font-family: 'Noto Sans KR'; text-anchor: end; fill: #132934" x="186.58" y="82.362194" transform="rotate(-0 186.58 82.362194)">12월 학생 총투표 (n=3,470)</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-weight: 700; font-size: 13.5px; font-family: 'Noto Sans KR'; text-anchor: end; fill: #132934" x="186.58" y="145.908" transform="rotate(-0 186.58 145.908)">1월 학칙개정 학생설문 (n=615)</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-weight: 700; font-size: 13.5px; font-family: 'Noto Sans KR'; text-anchor: end; fill: #132934" x="186.58" y="209.453806" transform="rotate(-0 186.58 209.453806)">1월 평의원회 표결 (n=10)</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Noto Sans KR'; text-anchor: middle; fill: #ffffff" x="324.114911" y="81.172194" transform="rotate(-0 324.114911 81.172194)">반대 85.7%</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Noto Sans KR'; text-anchor: start; fill: #132934" x="457.88675" y="80.750787" transform="rotate(-0 457.88675 80.750787)">반대 2,975표</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Noto Sans KR'; text-anchor: middle; fill: #ffffff" x="206.521966" y="144.337141" transform="rotate(-0 206.521966 144.337141)">찬성/기타 12.5%</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Noto Sans KR'; text-anchor: middle; fill: #ffffff" x="338.057698" y="144.718" transform="rotate(-0 338.057698 144.718)">반대 87.5%</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Noto Sans KR'; text-anchor: start; fill: #132934" x="457.88675" y="144.908" transform="rotate(-0 457.88675 144.908)">개정 반대 87.5%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Noto Sans KR'; text-anchor: middle; fill: #ffffff" x="295.308585" y="208.263806" transform="rotate(-0 295.308585 208.263806)">찬성 80.0%</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Noto Sans KR'; text-anchor: middle; fill: #ffffff" x="426.844317" y="208.263806" transform="rotate(-0 426.844317 208.263806)">반대 20.0%</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Noto Sans KR'; text-anchor: start; fill: #132934" x="457.88675" y="207.920603" transform="rotate(-0 457.88675 207.920603)">8:2 가결(학생 2명 서명거부)</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 15.5px; font-family: 'Noto Sans KR'; text-anchor: start; fill: #132934" x="190.08" y="29.472" transform="rotate(-0 190.08 29.472)">① 권고안 이후 학생 반발 및 평의원회 표결 (D10·D14·D15)</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_10">
+    <path d="M 654.679794 238.464 
+L 931.392 238.464 
+L 931.392 41.472 
+L 654.679794 41.472 
+z
+" style="fill: #f7f5ef"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 654.679794 91.673187 
+L 799.546772 91.673187 
+L 799.546772 61.1712 
+L 654.679794 61.1712 
+z
+" clip-path="url(#pa8480caaf4)" style="fill: #cf655f"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 654.679794 155.218994 
+L 758.039942 155.218994 
+L 758.039942 124.717006 
+L 654.679794 124.717006 
+z
+" clip-path="url(#pa8480caaf4)" style="fill: #cf655f"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 654.679794 218.7648 
+L 788.55967 218.7648 
+L 788.55967 188.262813 
+L 654.679794 188.262813 
+z
+" clip-path="url(#pa8480caaf4)" style="fill: #b8443e"/>
+   </g>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_4">
+     <g id="line2d_4"/>
+     <g id="text_13">
+      <text style="font-weight: 700; font-size: 13.5px; font-family: 'Noto Sans KR'; text-anchor: end; fill: #132934" x="651.179794" y="82.362194" transform="rotate(-0 651.179794 82.362194)">수시 모집</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_5"/>
+     <g id="text_14">
+      <text style="font-weight: 700; font-size: 13.5px; font-family: 'Noto Sans KR'; text-anchor: end; fill: #132934" x="651.179794" y="145.908" transform="rotate(-0 651.179794 145.908)">정시 모집</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_6"/>
+     <g id="text_15">
+      <text style="font-weight: 700; font-size: 13.5px; font-family: 'Noto Sans KR'; text-anchor: end; fill: #132934" x="651.179794" y="209.453806" transform="rotate(-0 651.179794 209.453806)">수시+정시 합계</text>
+     </g>
+    </g>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 13.5px; font-family: 'Noto Sans KR'; text-anchor: middle; fill: #ffffff" x="727.113283" y="81.552194" transform="rotate(-0 727.113283 81.552194)">-35.6%</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 12.5px; font-family: 'Noto Sans KR'; text-anchor: start; fill: #132934" x="804.429929" y="80.734694" transform="rotate(-0 804.429929 80.734694)">24,092명 → 15,519명</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 13.5px; font-family: 'Noto Sans KR'; text-anchor: middle; fill: #ffffff" x="706.359868" y="145.098" transform="rotate(-0 706.359868 145.098)">-25.4%</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 12.5px; font-family: 'Noto Sans KR'; text-anchor: start; fill: #132934" x="762.923098" y="144.2805" transform="rotate(-0 762.923098 144.2805)">6,366명 → 4,923명</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 13.5px; font-family: 'Noto Sans KR'; text-anchor: middle; fill: #ffffff" x="721.619732" y="208.643806" transform="rotate(-0 721.619732 208.643806)">-32.9%</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'Noto Sans KR'; text-anchor: start; fill: #132934" x="793.442827" y="207.675916" transform="rotate(-0 793.442827 207.675916)">30,458명 → 20,442명 (-1만 명)</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 15.5px; font-family: 'Noto Sans KR'; text-anchor: start; fill: #132934" x="654.679794" y="29.472" transform="rotate(-0 654.679794 29.472)">② 2026학년도 입시 지원자 증감률 (전년 대비, D15)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3d9497009c">
+   <rect x="190.08" y="41.472" width="373.561478" height="196.992"/>
+  </clipPath>
+  <clipPath id="pa8480caaf4">
+   <rect x="654.679794" y="41.472" width="276.712206" height="196.992"/>
+  </clipPath>
+ </defs>
+</svg>
