@@ -17,6 +17,10 @@ window.addEventListener('keydown',event=>{
   if(event.key==='End')show(slides.length-1);
 });
 window.addEventListener('resize',setZoom);
+window.addEventListener('hashchange',()=>{
+  const target=Number(location.hash.replace('#',''));
+  if(Number.isInteger(target)&&target>=1&&target<=slides.length&&target-1!==current)show(target-1);
+});
 setZoom();
 const hash=Number(location.hash.replace('#',''));
 show(Number.isInteger(hash)&&hash>=1&&hash<=slides.length?hash-1:0);

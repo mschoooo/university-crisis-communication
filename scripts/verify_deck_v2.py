@@ -69,6 +69,9 @@ with sync_playwright() as playwright:
     page.keyboard.press("ArrowRight")
     if page.locator("#count").inner_text() != f"2 / {count}":
         problems.append("Keyboard navigation failed")
+    page.goto((DECK / "index.html").resolve().as_uri() + "#9", wait_until="load")
+    if page.locator("#count").inner_text() != f"9 / {count}":
+        problems.append("URL hash navigation failed")
     page.emulate_media(media="print")
     page.pdf(path=str(PDF), print_background=True, prefer_css_page_size=True, display_header_footer=False)
     browser.close()
