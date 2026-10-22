@@ -1,10 +1,10 @@
 # 변화의 결단은 왜 위기가 되는가: 공식 결정의 진전과 내부 공중 수용의 괴리
 
-부산대학교 미디어커뮤니케이션학과 **위기관리(029) 중간고사 대체 과제** 발표용 HTML 슬라이드 덱이다(발표자: **조민성**, 학번 **202206251**). 강원대–강릉원주대 통합과 동덕여대 공학 전환 갈등을 정황적 수용 이론으로 비교 분석한다. 최신 `deck_v9`는 이론 적용부를 탭·색상·화살표로 구분하고 참고문헌을 한 폭의 가로 목록으로 재구성했다.
+부산대학교 미디어커뮤니케이션학과 **위기관리(029) 중간고사 대체 과제** 발표용 HTML 슬라이드 덱이다(발표자: **조민성**, 학번 **202206251**). 강원대–강릉원주대 통합과 동덕여대 공학 전환 갈등을 정황적 수용 이론으로 비교 분석한다. 최신 `deck_v10`은 회의록과 의결 규칙의 핵심 문장을 크게 제시하고, 비교 슬라이드의 정보 위계를 정리했다.
 
-- **최신 발표(deck_v9)**: [`versions/deck_v9/index.html`](versions/deck_v9/index.html)
-- **최신 인쇄용 PDF(deck_v9)**: [`versions/deck_v9/deck_v9.pdf`](versions/deck_v9/deck_v9.pdf)
-- **분석 근거·참고문헌·이미지 출처**: [`versions/deck_v9/README.md`](versions/deck_v9/README.md)
+- **최신 발표(deck_v10)**: [`versions/deck_v10/index.html`](versions/deck_v10/index.html)
+- **최신 인쇄용 PDF(deck_v10)**: [`versions/deck_v10/deck_v10.pdf`](versions/deck_v10/deck_v10.pdf)
+- **분석 근거·참고문헌·이미지 출처**: [`versions/deck_v10/README.md`](versions/deck_v10/README.md)
 - **이전 발표본(deck_v5)**: [`versions/deck_v5/index.html`](versions/deck_v5/index.html)
 - **이전 발표본(deck_v4)**: [`versions/deck_v4/index.html`](versions/deck_v4/index.html)
 - **이전 사실관계 검증본(v4)**: [`versions/v4/index.html`](versions/v4/index.html)
