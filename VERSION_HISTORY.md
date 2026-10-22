@@ -85,3 +85,7 @@
 
 - 15분 발표용 10장 HTML 슬라이드 덱 제작.
 - 보존 파일: `versions/v1/index.html`, `versions/v1/deck_v1.pdf`, `versions/v1/assets/`, `versions/v1/sources.html`.
+# v8 — 공식 메시지와 후속 행동 대조
+
+Cameron 정황적 수용 이론을 중심으로 두고 Benoit(1997)의 이미지 회복 전략으로 두 대학의 공식 메시지를 보조 분석했다. 제46·47·48차 강원대 평의원회 회의록, 동덕여대 공식 소통 일지·총장 입장문·공론화 자료·학칙 공고를 대조했다. 기존 15장 구성과 디자인을 유지했다. 상세 변경과 자료 한계는 [v8 수정 내역](versions/deck_v8/deck_v8_수정내역.md)과 [메시지·행동 대조표](versions/deck_v8/베노이트_메시지_행동_대조.md)에 기록했다.
+
