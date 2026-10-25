@@ -17,3 +17,7 @@
 - 2장: 글로컬대학 사업 중심 표현과 과제 수치를 제거하고, 대학 통합·공학화 논의의 일반 배경 및 보도 사례로 수정.
 - 6~11장: 대학 로고 워터마크 투명도를 기존의 절반(.068 → .034)으로 조정.
 - 13장: 평가 행과 부산대–부산교대·동덕여대 열을 명확히 구분.
+- Slide 3: Reworked the case diagnosis as a spaced comparison table with one column per university.
+- Slide 5: Removed the Glocal project-conditions callout and added a concise explanation of Cameron contingent accommodation theory.
+- Slides 15–16: Darkened the recommendations slide, restored a white references background, and disclosed AI assistance scope.
+- Removed internal source IDs from slide footers; retained author-year citations where relevant.
