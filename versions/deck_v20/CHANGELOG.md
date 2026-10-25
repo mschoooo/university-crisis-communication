@@ -21,3 +21,7 @@
 - Slide 5: Removed the Glocal project-conditions callout and added a concise explanation of Cameron contingent accommodation theory.
 - Slides 15–16: Darkened the recommendations slide, restored a white references background, and disclosed AI assistance scope.
 - Removed internal source IDs from slide footers; retained author-year citations where relevant.
+
+- Slide 15: Rebuilt recommendations as a three-row comparison table on a clearly distinct dark teal background.
+- Slide 16: Updated the AI-use statement exactly as requested; expanded visible source IDs, full URLs, DOI links, and available photo/document/logo credits.
+- Regenerated deck_v20.pdf and reran slide validation after the layout changes.

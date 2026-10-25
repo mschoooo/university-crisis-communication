@@ -7,7 +7,7 @@
 | 2 | `clip_dongduk_2024.png` | 실제 연합뉴스 기사 페이지 상단을 발췌: [동덕여대 '남녀공학 논의' 중단…봉쇄해제·수업재개 합의](https://www.yna.co.kr/view/AKR20241121116800004), 2024-11-21. |
 | 2 | `clip_dongduk_2025.png` | 실제 연합뉴스 기사 페이지 상단을 발췌: [동덕여대 총학 "남녀공학 반대" 학생투표결과 수용하라](https://www.yna.co.kr/view/AKR20251209103600004), 2025-12-09. |
 | 3, 6–11 | `logo_pusan.png`, `logo_bnue.png`, `logo_dongduk.png` | 각 대학의 [부산대 공식 UI](https://www.pusan.ac.kr/kor/CMS/Contents/Contents.do?mCode=MN156), [부산교대 공식 UI](https://www.bnue.ac.kr/content/intro03_02), [동덕여대 공식 홈페이지](https://www.dongduk.ac.kr/www/)에 게시된 로고. 동덕여대 로고는 공식 흰색 헤더용 원본을 흰 배경에서 읽히도록 어두운 색으로 변환했다. |
-| 6–11 | `*_watermark.png` | 위 공식 로고의 색을 단색으로 바꾸고 투명도 17%로 제작한 배경용 표시. |
+| 6–11 | `*_watermark.png` | 위 공식 로고를 단색 배경 표시로 사용. 슬라이드에서 적용한 CSS 불투명도는 3.4%이며 원본 파일의 색과 투명도는 별도입니다. |
 | 1, 6 | `bnue_protest_2023.jpg` | [채널PNU, 2023-05-26 기사](https://channelpnu.pusan.ac.kr/news/articleView.html?idxno=33343)의 최선우 기자 사진. 2023-05-23 부산교대 학생 기자회견. |
 | 1, 9 | `protest_dongduk_wall.jpg` | 연합뉴스 촬영 현장사진, [The Korea Times 2024-11-18 보도](https://www.koreatimes.co.kr/southkorea/society/20241118/protests-at-dongduk-womens-university-trigger-anti-feminist-backlash) 게재. 표지에서도 원색 유지. |
 | 7 | `pnu_briefing_2023.jpg` | [채널PNU, 2023-09-07 현장 보도](https://channelpnu.pusan.ac.kr/news/articleView.html?idxno=33734)의 정다민 기자 사진. 2023-09-06 부산대 통합 설명회. |
@@ -19,4 +19,4 @@
 
 글로컬 사업 조건과 2025년 수정 신청서 제출일은 부산대 공식 「2025학년도 주요 업무 성과」(P05) 및 「부산대-부산교대 통합추진위원회 구성 및 운영 결과」(P06)를 확인했다. 6월 2일 공개 문구가 최종 제출본에 반영됐는지는 제출 원문을 확인할 수 없어 미확인으로 표시했다.
 
-Slides 6?8: `logo_pusan_seal.png` ? circular Pusan National University seal extracted from the university?s official [Study Abroad at PNU brochure](https://his.pusan.ac.kr/sites/international_eng/download/studyabroadatPNU_2017.pdf), p. 1; recolored as a 17% watermark. Slides 9?11: `logo_dongduk_seal.svg` ? circular Dongduk Women?s University seal from the university?s published logo asset, recolored in the deck as a 17% watermark.
+Slides 6–8: `logo_pusan_seal.png` is the circular Pusan National University seal from the university’s official [Study Abroad at PNU brochure](https://his.pusan.ac.kr/sites/international_eng/download/studyabroadatPNU_2017.pdf), p. 1. Slides 9–11: `logo_dongduk_seal.svg` is the circular Dongduk Women’s University seal from its published logo asset ([official website](https://www.dongduk.ac.kr/www/)). Both are displayed with 3.4% CSS opacity in the current deck.
