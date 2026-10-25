@@ -1,3 +1,10 @@
+## 최신 발표자료: deck_v20
+
+- [슬라이드 보기](versions/deck_v20/index.html)
+- [PDF 다운로드](versions/deck_v20/deck_v20.pdf)
+- [출처 목록](versions/deck_v20/sources.html)
+- [발표자 노트](versions/deck_v20/deck_v20_발표자노트.md)
+
 # 변화의 결단은 왜 위기가 되는가
 
 부산대학교 미디어커뮤니케이션학과 **위기관리(029) 중간고사 대체 과제** 발표용 HTML 슬라이드 덱이다(발표자: **조민성**, 학번 **202206251**). 최신 `deck_v19`는 Cameron 정황적 수용 이론을 중심으로 부산대–부산교대 통합과 동덕여대 남녀공학 전환을 비교한다. Benoit의 이미지 회복 전략은 한 장에서 보조적으로 평가한다.
