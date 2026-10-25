@@ -25,7 +25,7 @@ with sync_playwright() as pw:
           const bad=[];
           for(const el of slide.querySelectorAll('h1,h2,h3,p,blockquote,figure,figcaption,.timeline,.theory-rows,.comparison,.assessment,.bibliography,.message-compare,.recommendations')){
             const r=el.getBoundingClientRect();
-            if(r.right>s.right+4||r.bottom>s.bottom-50||r.left<s.left-4) bad.push(`${el.tagName}.${el.className}: ${Math.round(r.left-s.left)},${Math.round(r.top-s.top)},${Math.round(r.right-s.right)},${Math.round(r.bottom-s.bottom)}`);
+            if(!el.matches('.cover-bg')&&(r.right>s.right+4||r.bottom>s.bottom-50||r.left<s.left-4)) bad.push(`${el.tagName}.${el.className}: ${Math.round(r.left-s.left)},${Math.round(r.top-s.top)},${Math.round(r.right-s.right)},${Math.round(r.bottom-s.bottom)}`);
             if(el.scrollWidth>el.clientWidth+5&&el.clientWidth>0)bad.push(`scroll:${el.tagName}.${el.className}`);
           }
           const missing=[...slide.querySelectorAll('img')].filter(i=>!i.complete||i.naturalWidth===0).map(i=>i.getAttribute('src'));
