@@ -256,16 +256,16 @@ figcaption{font-size:18px!important;line-height:1.3!important}
 .rec-table-row>p{margin:0;color:#f5f8f7}
 /* Slide 16: compact, linked source index with document IDs and image credits. */
 .slide[data-slide="16"].references{padding:48px 64px 52px;background:#fff}
-.reference-index-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:24px;align-items:start}
+.reference-index-grid{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:start}
 .ref-column{min-width:0}
-.ref-column>h3{font-size:19px;padding-bottom:8px;margin-bottom:9px;border-bottom:2px solid var(--ink);color:var(--teal)}
-.ref-column:nth-child(3)>h3{color:var(--brick);border-color:var(--brick)}
-.ref-column>h4{font-size:16px;line-height:1.25;margin:10px 0 5px;color:var(--ink)}
-.ref-citation{font-size:15px;line-height:1.28;margin:0 0 7px;overflow-wrap:anywhere}
-.ref-entry{font-size:14px;line-height:1.24;margin:0 0 7px;overflow-wrap:anywhere;word-break:break-all}
-.ref-entry>b{display:block;font-size:14px;color:var(--teal);word-break:normal}
-.ref-entry>a{display:block;font-size:13.5px;line-height:1.24;color:#3d5155;text-decoration:underline;text-underline-offset:2px;overflow-wrap:anywhere;word-break:break-all}
-.ref-credit{font-size:14px;line-height:1.3;margin:0 0 6px;overflow-wrap:anywhere}
+.ref-column>h3{font-size:23px;padding-bottom:9px;margin-bottom:13px;border-bottom:2px solid var(--ink);color:var(--teal)}
+.ref-column:nth-child(2)>h3{color:var(--brick);border-color:var(--brick)}
+.ref-column>h4{font-size:19px;line-height:1.25;margin:13px 0 7px;color:var(--ink)}
+.ref-citation{font-size:17px;line-height:1.34;margin:0 0 9px;overflow-wrap:anywhere}
+.ref-entry{font-size:17px;line-height:1.32;margin:0 0 9px;overflow-wrap:normal;word-break:normal}
+.ref-entry>b{display:inline;font-size:inherit;color:var(--teal);word-break:normal}
+.ref-entry>a{display:inline;font-size:inherit;line-height:inherit;color:#3d5155;text-decoration:underline;text-underline-offset:2px;overflow-wrap:anywhere;word-break:normal}
+.ref-credit{font-size:16px;line-height:1.35;margin:0 0 7px;overflow-wrap:anywhere}
 .ref-credit a{overflow-wrap:anywhere;word-break:break-all}
 .slide[data-slide="16"] .ai-scope{grid-template-columns:160px 1fr;gap:18px;margin-top:13px;padding-top:9px}
 .slide[data-slide="16"] .ai-scope>b{font-size:16px}

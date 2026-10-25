@@ -25,3 +25,7 @@
 - Slide 15: Rebuilt recommendations as a three-row comparison table on a clearly distinct dark teal background.
 - Slide 16: Updated the AI-use statement exactly as requested; expanded visible source IDs, full URLs, DOI links, and available photo/document/logo credits.
 - Regenerated deck_v20.pdf and reran slide validation after the layout changes.
+
+- Slides 3 and 12: Separated the 2023-11-13 Glocal designation from the 2024-02-21 innovation implementation agreement; marked the 2023-09-06 withdrawal as pre-designation.
+- Slides 5, 7 and 12: Clarified that public willingness to concede describes student/public positions, while plan revisions are university actions interpreted through negotiation flexibility; removed causal wording.
+- Slide 16: Replaced long on-slide URLs with readable academic references, event records, and linked source IDs. Added full URL mapping and the Busan City agreement announcement to the source index.
