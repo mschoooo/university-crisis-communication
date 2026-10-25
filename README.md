@@ -1,10 +1,10 @@
 # 변화의 결단은 왜 위기가 되는가: 공식 결정의 진전과 내부 공중 수용의 괴리
 
-부산대학교 미디어커뮤니케이션학과 **위기관리(029) 중간고사 대체 과제** 발표용 HTML 슬라이드 덱이다(발표자: **조민성**, 학번 **202206251**). 강원대–강릉원주대 통합과 동덕여대 공학 전환 갈등을 비교 분석한다. 최신 `deck_v11`은 카메룬의 81개 상황변수 전수분석을 발표 흐름에 반영하고, 베노이트의 이미지 회복 전략을 마지막 분석 장 한 장에 배치했다.
+부산대학교 미디어커뮤니케이션학과 **위기관리(029) 중간고사 대체 과제** 발표용 HTML 슬라이드 덱이다(발표자: **조민성**, 학번 **202206251**). 강원대–강릉원주대 통합과 동덕여대 공학 전환 갈등을 비교 분석한다. 최신 `deck_v12`는 카메룬 변수의 선정 기준, 집계 질문 조건, 사건 날짜와 근거 수준을 더 명확히 하고 레이아웃을 정리했다. 베노이트의 이미지 회복 전략은 마지막 분석 장 한 장에서 다룬다.
 
-- **최신 발표(deck_v11)**: [`versions/deck_v11/index.html`](versions/deck_v11/index.html)
-- **최신 인쇄용 PDF(deck_v11)**: [`versions/deck_v11/deck_v11.pdf`](versions/deck_v11/deck_v11.pdf)
-- **81개 변수 보고서·참고문헌·이미지 출처**: [`versions/deck_v11/README.md`](versions/deck_v11/README.md)
+- **최신 발표(deck_v12)**: [`versions/deck_v12/index.html`](versions/deck_v12/index.html)
+- **최신 인쇄용 PDF(deck_v12)**: [`versions/deck_v12/deck_v12.pdf`](versions/deck_v12/deck_v12.pdf)
+- **81개 변수 보고서·참고문헌·이미지 출처**: [`versions/deck_v12/README.md`](versions/deck_v12/README.md)
 - **이전 발표본(deck_v5)**: [`versions/deck_v5/index.html`](versions/deck_v5/index.html)
 - **이전 발표본(deck_v4)**: [`versions/deck_v4/index.html`](versions/deck_v4/index.html)
 - **이전 사실관계 검증본(v4)**: [`versions/v4/index.html`](versions/v4/index.html)
