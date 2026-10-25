@@ -135,3 +135,35 @@
 .press-collage img{height:170px}
 
 .sequence-table>div{font-size:21px;line-height:1.45;padding:24px 0}.sequence-table>div>b{font-size:21px}.sequence-table>div.head{font-size:22px;padding:12px 0}.sequence-table p{margin-bottom:12px}
+
+/* deck_v20 refinement: cover cleanup, situation-variable hierarchy, and final-section contrast */
+.cover .author{position:absolute;top:520px;left:0;margin-top:0}
+.cover footer{left:auto;right:78px;justify-content:flex-end}
+.slide[data-slide="4"] .research-question{margin-top:58px}
+.theory-counts{grid-template-columns:1fr 1fr;max-width:760px}
+/* Show only the round campus seal as a large lower-right watermark. */
+.case-focus::before{inset:auto 42px 35px auto;width:min(88vh,820px);height:min(88vh,820px);background-position:left center;background-size:auto 100%;background-repeat:no-repeat}
+.case-focus[data-mark="pusan"]::before{background-image:url('assets/logo_pusan_mono_watermark.png')}
+.case-focus[data-mark="dongduk"]::before{background-image:url('assets/logo_dongduk_watermark.png')}
+.case-focus[data-mark="bnue"]::before{background-image:url('assets/logo_pusan_mono_watermark.png')}
+.situation-callout{display:grid;grid-template-columns:190px 1.25fr 1fr;gap:20px;align-items:center;margin-top:18px;padding:17px 22px;background:#eaf3f2;border-left:7px solid var(--teal);min-height:86px}
+.situation-callout>b{font-size:22px;color:var(--teal)}.situation-callout>strong{font-size:23px;line-height:1.32;color:#172a2d}.situation-callout>p{font-size:18px;line-height:1.4;margin:0;color:#354549}
+.situation-analysis .sequence-table>div>b:first-child{background:#eaf3f2;padding:14px 12px;color:#176e69;font-size:23px}
+.situation-analysis .sequence-table>div{grid-template-columns:260px 1fr 1fr}
+.s13-callout{grid-template-columns:225px 1.6fr .8fr;margin-top:22px;min-height:90px}.s13-callout>strong{font-size:22px}
+.slide[data-slide="12"],.slide[data-slide="13"],.slide[data-slide="14"],.slide[data-slide="15"],.slide[data-slide="16"]{background:#f1f4f3}
+.slide[data-slide="16"] .bibliography.single-column{grid-template-columns:1fr;gap:15px;margin-top:-38px}
+.slide[data-slide="16"] .bibliography>div>b{font-size:21px;padding-bottom:7px;margin-bottom:8px}
+.slide[data-slide="16"] .bibliography p{font-size:18px;line-height:1.32;margin-bottom:8px}
+.slide[data-slide="16"] .bibliography>div:last-child>b{border-color:var(--brick)}
+
+/* Force the image into a seal-sized crop, excluding the adjoining wordmark. */
+.case-focus::before{right:42px!important;bottom:30px!important;left:auto!important;top:auto!important;width:min(88vh,820px)!important;height:min(88vh,820px)!important;background-position:left center!important;background-size:auto 100%!important}
+.case-focus[data-mark="pusan"]::before,.case-focus[data-mark="dongduk"]::before{background-position:left center!important;background-size:auto 100%!important}
+.slide[data-slide="16"] .bibliography p{font-size:20px;line-height:1.42;margin-bottom:10px}
+.case-focus::before{right:42px!important;bottom:30px!important;left:auto!important;top:auto!important;width:min(86vh,760px)!important;height:min(86vh,760px)!important;background-position:left center!important;background-size:auto 100%!important;background-repeat:no-repeat!important;opacity:.17!important}
+.case-focus[data-mark="pusan"]::before{background-image:url('assets/logo_pusan.png')!important}
+.case-focus[data-mark="dongduk"]::before{background-image:url('assets/logo_dongduk_seal.svg')!important;background-size:100% 100%!important}
+.case-focus[data-mark="bnue"]::before{background-image:url('assets/logo_pusan.png')!important}
+.case-focus[data-mark="pusan"]::before{background-image:url('assets/logo_pusan_seal.png')!important;background-size:100% 100%!important}
+.case-focus[data-mark="bnue"]::before{background-image:url('assets/logo_pusan_seal.png')!important;background-size:100% 100%!important}

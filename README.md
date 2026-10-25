@@ -7,12 +7,12 @@
 
 # 변화의 결단은 왜 위기가 되는가
 
-부산대학교 미디어커뮤니케이션학과 **위기관리(029) 중간고사 대체 과제** 발표용 HTML 슬라이드 덱이다(발표자: **조민성**, 학번 **202206251**). 최신 `deck_v19`는 Cameron 정황적 수용 이론을 중심으로 부산대–부산교대 통합과 동덕여대 남녀공학 전환을 비교한다. Benoit의 이미지 회복 전략은 한 장에서 보조적으로 평가한다.
+부산대학교 미디어커뮤니케이션학과 **위기관리(029) 중간고사 대체 과제** 발표용 HTML 슬라이드 덱이다(발표자: **조민성**, 학번 **202206251**). 최신 `deck_v20`는 Cameron 정황적 수용 이론을 중심으로 부산대–부산교대 통합과 동덕여대 남녀공학 전환을 비교한다. Benoit의 이미지 회복 전략은 한 장에서 보조적으로 평가한다.
 
-- **최신 발표(deck_v19)**: [`versions/deck_v19/index.html`](versions/deck_v19/index.html)
-- **최신 인쇄용 PDF(deck_v19)**: [`versions/deck_v19/deck_v19.pdf`](versions/deck_v19/deck_v19.pdf)
-- **발표자 노트·출처 색인·시각자료 크레딧**: [`versions/deck_v19/README.md`](versions/deck_v19/README.md)
-- **구성·시간 계획**: [`PLAN_v19.md`](PLAN_v19.md)
+- **최신 발표(deck_v20)**: [`versions/deck_v20/index.html`](versions/deck_v20/index.html)
+- **최신 인쇄용 PDF(deck_v20)**: [`versions/deck_v20/deck_v20.pdf`](versions/deck_v20/deck_v20.pdf)
+- **발표자 노트·출처 색인·시각자료 크레딧**: [`versions/deck_v20/README.md`](versions/deck_v20/README.md)
+- **구성·시간 계획**: [`PLAN_v20.md`](PLAN_v20.md)
 - **이전 발표본(deck_v5)**: [`versions/deck_v5/index.html`](versions/deck_v5/index.html)
 - **이전 발표본(deck_v4)**: [`versions/deck_v4/index.html`](versions/deck_v4/index.html)
 - **이전 사실관계 검증본(v4)**: [`versions/v4/index.html`](versions/v4/index.html)

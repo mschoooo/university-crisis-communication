@@ -18,3 +18,5 @@
 
 
 글로컬 사업 조건과 2025년 수정 신청서 제출일은 부산대 공식 「2025학년도 주요 업무 성과」(P05) 및 「부산대-부산교대 통합추진위원회 구성 및 운영 결과」(P06)를 확인했다. 6월 2일 공개 문구가 최종 제출본에 반영됐는지는 제출 원문을 확인할 수 없어 미확인으로 표시했다.
+
+Slides 6?8: `logo_pusan_seal.png` ? circular Pusan National University seal extracted from the university?s official [Study Abroad at PNU brochure](https://his.pusan.ac.kr/sites/international_eng/download/studyabroadatPNU_2017.pdf), p. 1; recolored as a 17% watermark. Slides 9?11: `logo_dongduk_seal.svg` ? circular Dongduk Women?s University seal from the university?s published logo asset, recolored in the deck as a 17% watermark.
