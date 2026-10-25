@@ -29,3 +29,7 @@
 - Slides 3 and 12: Separated the 2023-11-13 Glocal designation from the 2024-02-21 innovation implementation agreement; marked the 2023-09-06 withdrawal as pre-designation.
 - Slides 5, 7 and 12: Clarified that public willingness to concede describes student/public positions, while plan revisions are university actions interpreted through negotiation flexibility; removed causal wording.
 - Slide 16: Replaced long on-slide URLs with readable academic references, event records, and linked source IDs. Added full URL mapping and the Busan City agreement announcement to the source index.
+
+- Added a full 16-slide Korean speaking-script draft targeting 14:55; aligned the timing notes with the current slide sequence and linked the draft from README.
+
+- Added a full 16-slide Korean speaking-script draft with a 14:55 target, aligned to the current deck and its interpretation limits. Linked it from README and updated presenter-note timing and the bibliography description.
